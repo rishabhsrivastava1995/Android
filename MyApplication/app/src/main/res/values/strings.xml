@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="list">List</string>
+    <string name="hintID">Enter product ID</string>
+    <string name="hintName">Enter product name</string>
+    <string name="hintCost">Enter product cost</string>
+</resources>
